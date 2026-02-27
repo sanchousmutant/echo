@@ -3,7 +3,7 @@
 <p>
 An Extension-based Music Player for Android, designed with a clean and intuitive UI.
 </p>
-<a href="https://github.com/brahmkshatriya/echo-spotify-extension" ><img src="https://discordapp.com/channels/1208756142474399764/1412700291769565264/1412700291769565264" alt="img spotify"></a>
+<a href="https://github.com/brahmkshatriya/echo-spotify-extension" ><img src="https://media.discordapp.net/attachments/1412700291769565264/1412700292142596137/spotify.png?ex=69a298ac&is=69a1472c&hm=107a18798ed035cabb6eb86ef8d3464750328f6d70c2d3ec0f71a88a40bc0b1e&=&format=webp&quality=lossless" alt="img spotify"></a>
 
                             
 > [!NOTE]
